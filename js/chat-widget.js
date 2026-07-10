@@ -1,6 +1,5 @@
 (() => {
-  // TODO: podmień na swój link Calendly (Ustawienia > Typy spotkań > Kopiuj link) po utworzeniu konta.
-  const CALENDLY_URL = "https://calendly.com/TWOJA-NAZWA/konsultacja";
+  const CALENDLY_URL = "https://calendly.com/anna-pozniak-hkuv";
 
   const powitanie =
     "Cześć! Jestem asystentem AI tej strony - nie jestem terapeutą, ale chętnie Cię wysłucham. Co Cię do mnie sprowadza?";
