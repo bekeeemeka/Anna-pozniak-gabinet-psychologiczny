@@ -96,7 +96,18 @@ module.exports = async (req, res) => {
     }
 
     const data = await response.json();
-    const reply = (data.content && data.content[0] && data.content[0].text) || "";
+    const reply = (data.content || [])
+      .filter((block) => block.type === "text")
+      .map((block) => block.text)
+      .join("\n\n")
+      .trim();
+
+    if (!reply) {
+      console.error("Empty reply from Anthropic API. Raw content:", JSON.stringify(data.content));
+      res.status(502).json({ error: "Asystent nie zdołał odpowiedzieć. Spróbuj przeformułować wiadomość." });
+      return;
+    }
+
     res.status(200).json({ reply });
   } catch (err) {
     console.error("Chat handler error:", err);
