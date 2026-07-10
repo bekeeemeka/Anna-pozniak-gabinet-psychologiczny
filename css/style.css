@@ -340,3 +340,243 @@
     right: -0.25rem;
   }
 }
+
+/* ===== STRONA E-BOOKA ===== */
+
+.ksiazka-hero {
+  display: grid;
+  grid-template-columns: minmax(260px, 340px) 1fr;
+  gap: 3.5rem;
+  align-items: center;
+  padding: 9rem 7vw 5rem;
+  background: radial-gradient(circle at top right, rgba(200, 154, 74, 0.1), transparent 45%), var(--tlo);
+}
+
+.okladka-otoczka {
+  perspective: 1200px;
+}
+
+.okladka {
+  position: relative;
+  aspect-ratio: 340 / 480;
+  border-radius: 4px 10px 10px 4px;
+  background: linear-gradient(155deg, #17130c, var(--tlo) 60%);
+  border: 1px solid var(--ramka);
+  box-shadow: var(--cien), -10px 0 25px rgba(0, 0, 0, 0.5);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 2.5rem 1.75rem;
+  transform: rotateY(-8deg);
+}
+
+.okladka::before {
+  content: "";
+  position: absolute;
+  inset: 0 0 0 auto;
+  width: 10px;
+  background: linear-gradient(90deg, rgba(0, 0, 0, 0.5), transparent);
+  border-radius: 0 10px 10px 0;
+}
+
+.okladka::after {
+  content: "";
+  position: absolute;
+  left: 10px;
+  top: 8px;
+  bottom: 8px;
+  width: 1px;
+  background: rgba(200, 154, 74, 0.35);
+}
+
+.okladka-marka {
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  font-size: 0.62rem;
+  color: var(--jasne-zloto);
+}
+
+.okladka-tytul {
+  font-family: "Cormorant Garamond", serif;
+  font-size: 2.5rem;
+  line-height: 1.05;
+  margin: 1.25rem 0 0.75rem;
+  color: var(--biel);
+}
+
+.okladka-podtytul {
+  font-size: 0.82rem;
+  color: var(--szary);
+  line-height: 1.5;
+  max-width: 22ch;
+}
+
+.okladka-linia {
+  width: 46px;
+  height: 1px;
+  background: var(--zloto);
+  margin: 1.5rem 0;
+}
+
+.okladka-autor {
+  font-family: "Allura", cursive;
+  font-size: 1.7rem;
+  color: var(--jasne-zloto);
+}
+
+.ksiazka-info .nadtytul {
+  margin-bottom: 1rem;
+}
+
+.ksiazka-cena {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 0.5rem;
+  margin: 1.5rem 0 0;
+}
+
+.ksiazka-cena .kwota {
+  font-family: "Cormorant Garamond", serif;
+  font-size: 2.4rem;
+  color: var(--jasne-zloto);
+}
+
+.ksiazka-cena .opis-ceny {
+  font-size: 0.82rem;
+  color: var(--szary);
+}
+
+.ksiazka-spis {
+  background: var(--tlo2);
+}
+
+.lista-rozdzialow {
+  max-width: 760px;
+  margin: 0 auto;
+  list-style: none;
+  padding: 0;
+  border-top: 1px solid var(--ramka);
+}
+
+.lista-rozdzialow li {
+  display: flex;
+  align-items: baseline;
+  gap: 1rem;
+  padding: 1rem 0;
+  border-bottom: 1px solid var(--ramka);
+  color: var(--szary);
+}
+
+.lista-rozdzialow .numer {
+  font-family: "Cormorant Garamond", serif;
+  font-size: 1.3rem;
+  color: var(--zloto);
+  min-width: 2.2rem;
+}
+
+.lista-rozdzialow .nazwa {
+  color: var(--biel);
+  flex: 1;
+}
+
+.ksiazka-fragment-wrapper {
+  position: relative;
+  max-width: 760px;
+  margin: 0 auto;
+}
+
+.ksiazka-fragment {
+  font-family: "Cormorant Garamond", serif;
+  font-size: 1.25rem;
+  line-height: 1.85;
+  color: #ddd6ca;
+}
+
+.ksiazka-fragment h3 {
+  font-size: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+  color: var(--jasne-zloto);
+  font-family: "Inter", sans-serif;
+  margin-bottom: 0.5rem;
+}
+
+.ksiazka-fragment h2 {
+  margin-bottom: 2rem;
+}
+
+.ksiazka-fragment p {
+  margin: 0 0 1.4rem;
+}
+
+.ksiazka-fragment p:first-of-type::first-letter {
+  font-family: "Cormorant Garamond", serif;
+  font-size: 3.6rem;
+  float: left;
+  line-height: 0.8;
+  padding: 0.1rem 0.5rem 0 0;
+  color: var(--jasne-zloto);
+}
+
+.fragment-cwiczenie {
+  margin: 2rem 0;
+  padding: 1.5rem 1.75rem;
+  border-left: 2px solid var(--zloto);
+  background: rgba(200, 154, 74, 0.06);
+  font-style: italic;
+}
+
+.fragment-blokada {
+  position: relative;
+  margin-top: -8rem;
+  padding-top: 8rem;
+  background: linear-gradient(to bottom, transparent, var(--tlo) 55%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: 1.1rem;
+}
+
+.fragment-blokada svg {
+  width: 34px;
+  height: 34px;
+  color: var(--zloto);
+}
+
+.fragment-blokada h3 {
+  margin: 0;
+  font-family: "Cormorant Garamond", serif;
+  font-size: 1.9rem;
+  font-weight: 500;
+  color: var(--biel);
+}
+
+.fragment-blokada p {
+  max-width: 46ch;
+  color: var(--szary);
+  margin: 0;
+}
+
+@media (max-width: 850px) {
+  .ksiazka-hero {
+    grid-template-columns: 1fr;
+    justify-items: center;
+    text-align: center;
+    padding-top: 8rem;
+  }
+
+  .okladka-otoczka {
+    max-width: 260px;
+  }
+
+  .okladka {
+    transform: none;
+  }
+
+  .ksiazka-cena {
+    justify-content: center;
+  }
+}
