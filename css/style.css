@@ -361,16 +361,16 @@
   aspect-ratio: 340 / 480;
   border-radius: 4px 10px 10px 4px;
   background:
-    linear-gradient(155deg, rgba(10, 8, 5, 0.55), rgba(5, 5, 5, 0.88) 65%),
-    url("../assets/images/swiatlo-przebijajace-sie-przez-chmury.jpg") center/cover;
+    linear-gradient(to bottom, rgba(5, 5, 5, 0) 0%, rgba(8, 6, 4, 0.4) 52%, rgba(5, 5, 5, 0.97) 86%),
+    url("../assets/images/okladka-ksiazki.jpg") center 18%/cover;
   border: 1px solid var(--ramka);
   box-shadow: var(--cien), -10px 0 25px rgba(0, 0, 0, 0.5);
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
+  justify-content: flex-end;
   text-align: center;
-  padding: 2.5rem 1.75rem;
+  padding: 2.5rem 1.75rem 2.25rem;
   transform: rotateY(-8deg);
 }
 
