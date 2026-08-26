@@ -68,7 +68,7 @@
           <h3>Nie Jesteś Trudna. Jesteś Niewysłuchana.</h3>
           <p>O kobietach, mężczyznach i miłości, której nikt nas nie nauczył.</p>
           <div class="karta-ksiazki-dol">
-            <span class="odznaka-wkrotce">Premiera wkrótce</span>
+            <span class="kwota">20 zł</span>
             <a class="link-strzalka" href="#nie-jestes-trudna">Zobacz książkę →</a>
           </div>
         </div>
@@ -210,11 +210,11 @@
         i o tym, co zostaje, kiedy w końcu przestajemy udawać. Nie po to, żeby kogoś oceniać. Po to, żeby w końcu poczuć się usłyszaną.
       </p>
       <div class="ksiazka-cena">
-        <span class="odznaka-wkrotce">Premiera wkrótce</span>
-        <span class="opis-ceny">napisz do Anny, aby dowiedzieć się pierwsza/pierwszy o premierze</span>
+        <span class="kwota">20 zł</span>
+        <span class="opis-ceny">e-book PDF, dostęp od razu po zakupie</span>
       </div>
       <div class="przyciski">
-        <a class="przycisk przycisk-glowny" href="index.html#kontakt">Zapytaj o premierę</a>
+        <a class="przycisk przycisk-glowny ksiazka2-kup" id="ksiazka2-kup" href="#" target="_blank" rel="noopener">Kup e-booka</a>
         <a class="przycisk przycisk-drugi" href="#fragment-2">Przeczytaj fragment</a>
       </div>
     </div>
@@ -317,8 +317,7 @@
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><rect x="4" y="10" width="16" height="10" rx="2"></rect><path d="M8 10V7a4 4 0 0 1 8 0v3"></path></svg>
         <h3>To dopiero początek</h3>
         <p>Wszystkie 24 rozdziały czekają w pełnej wersji e-booka - o kobietach, mężczyznach i miłości, której nikt nas nie nauczył.</p>
-        <span class="odznaka-wkrotce">Premiera wkrótce</span>
-        <a class="przycisk przycisk-glowny" href="index.html#kontakt">Napisz do Anny</a>
+        <a class="przycisk przycisk-glowny ksiazka2-kup" href="#" target="_blank" rel="noopener">Kup e-booka za 20 zł</a>
       </div>
     </div>
   </section>
@@ -326,7 +325,7 @@
   <section class="sekcja wezwanie">
     <p class="nadtytul">Nie Jesteś Trudna. Jesteś Niewysłuchana.</p>
     <h2>Nie musisz być łatwa do kochania. Musisz być prawdziwa.</h2>
-    <a class="przycisk przycisk-glowny" href="index.html#kontakt">Napisz do Anny</a>
+    <a class="przycisk przycisk-glowny ksiazka2-kup" href="#" target="_blank" rel="noopener">Kup e-booka</a>
   </section>
 </main>
 
@@ -373,6 +372,9 @@
 <script>
   document.querySelectorAll(".ksiazka-kup, #ksiazka-kup").forEach((a) => {
     a.href = "https://pozniakanna.gumroad.com/l/jvydv";
+  });
+  document.querySelectorAll(".ksiazka2-kup, #ksiazka2-kup").forEach((a) => {
+    a.href = "https://pozniakanna.gumroad.com/l/efkmq";
   });
 </script>
 </body>
