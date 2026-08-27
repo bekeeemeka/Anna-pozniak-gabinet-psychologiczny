@@ -56,6 +56,51 @@
   background: transparent;
 }
 
+.wsparcie-rozwiniecie {
+  max-width: 1000px;
+  margin: 3.5rem auto 0;
+}
+
+.wsparcie-wprowadzenie {
+  text-align: center;
+  font-family: "Cormorant Garamond", serif;
+  font-size: 1.4rem;
+  color: var(--jasne-zloto);
+  margin: 0 0 1.5rem;
+}
+
+.lista-cech {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 0 2.5rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.lista-cech li {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.75rem;
+  padding: 0.85rem 0;
+  border-bottom: 1px solid var(--ramka);
+  color: var(--szary);
+}
+
+.lista-cech svg {
+  flex-shrink: 0;
+  width: 18px;
+  height: 18px;
+  margin-top: 0.2rem;
+  color: var(--zloto);
+}
+
+@media (max-width: 700px) {
+  .lista-cech {
+    grid-template-columns: 1fr;
+  }
+}
+
 @media (max-width: 850px) {
   .opowiesc,
   .o-mnie,
