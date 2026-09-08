@@ -27,8 +27,9 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Psychologist",
-    "name": "Anna Poźniak - Gabinet Psychologiczny",
+    "@type": "ProfessionalService",
+    "@id": "https://www.annapozniak.com/#psycholog",
+    "name": "Anna Poźniak - Psycholog Rzeszów",
     "image": "https://www.annapozniak.com/assets/images/portret-psycholog.jpeg",
     "url": "https://www.annapozniak.com/",
     "telephone": "+48663504991",
@@ -43,7 +44,50 @@
     "areaServed": {
       "@type": "City",
       "name": "Rzeszów"
-    }
+    },
+    "knowsLanguage": "pl",
+    "makesOffer": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Konsultacje psychologiczne",
+          "url": "https://www.annapozniak.com/konsultacje-psychologiczne-rzeszow.html"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Wsparcie w kryzysie",
+          "url": "https://www.annapozniak.com/wsparcie-w-kryzysie-rzeszow.html"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Pomoc po rozstaniu i zdradzie",
+          "url": "https://www.annapozniak.com/pomoc-po-rozstaniu-rzeszow.html"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Odbudowa poczucia własnej wartości",
+          "url": "https://www.annapozniak.com/odbudowa-wartosci-rzeszow.html"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Konsultacje online",
+          "url": "https://www.annapozniak.com/psycholog-online.html"
+        }
+      }
+    ]
   }
   </script>
 </head>
@@ -60,7 +104,7 @@
     <a href="ksiazka.html" class="aktywny">Książki</a>
     <a href="index.html#kontakt">Kontakt</a>
   </nav>
-  <a class="przycisk-naglowka" href="https://calendly.com/anna-pozniak-hkuv" onclick="Calendly.initPopupWidget({url:'https://calendly.com/anna-pozniak-hkuv'});return false;">Umów konsultację</a>
+  <a class="przycisk-naglowka" href="https://calendly.com/anna-pozniak-hkuv?locale=pl" onclick="Calendly.initPopupWidget({url:'https://calendly.com/anna-pozniak-hkuv?locale=pl'});return false;">Umów konsultację</a>
 </header>
 
 <main>
@@ -620,7 +664,11 @@
 </main>
 
 <footer class="stopka">
-  <div><a class="marka" href="index.html"><span class="marka-nazwa">Anna Poźniak</span><span class="marka-opis">Gabinet Psychologiczny</span></a></div>
+  <div>
+    <a class="marka" href="index.html"><span class="marka-nazwa">Anna Poźniak</span><span class="marka-opis">Gabinet Psychologiczny</span></a>
+    <p>Profesjonalne wsparcie psychologiczne w Rzeszowie i <a href="psycholog-online.html">online</a>.</p>
+    <p class="stopka-dane">ul. Słowackiego 24/19, Rzeszów · <a href="tel:+48663504991">+48 663 504 991</a></p>
+  </div>
   <p>© <span id="rok"></span> Anna Poźniak. Wszelkie prawa zastrzeżone.</p>
 </footer>
 
