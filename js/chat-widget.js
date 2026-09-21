@@ -1,5 +1,5 @@
 (() => {
-  const CALENDLY_URL = "https://calendly.com/anna-pozniak-hkuv";
+  const BOOKING_URL = "https://calendar.app.google/E1gHr8HGQ7oLmLij9";
 
   const powitanie =
     "Cześć! Jestem asystentem AI tej strony - nie jestem terapeutą, ale chętnie Cię wysłucham. Co Cię do mnie sprowadza?";
@@ -20,12 +20,8 @@
   let wysylanie = false;
   let otwartyRaz = false;
 
-  function otworzCalendly() {
-    if (window.Calendly && typeof window.Calendly.initPopupWidget === "function") {
-      window.Calendly.initPopupWidget({ url: CALENDLY_URL });
-    } else {
-      window.open(CALENDLY_URL, "_blank", "noopener");
-    }
+  function otworzUmawianie() {
+    window.open(BOOKING_URL, "_blank", "noopener");
   }
 
   function dodajWiadomosc(tresc, rola) {
@@ -115,7 +111,7 @@
   });
 
   if (przyciskUmow) {
-    przyciskUmow.addEventListener("click", otworzCalendly);
+    przyciskUmow.addEventListener("click", otworzUmawianie);
   }
 
   formularz.addEventListener("submit", (e) => {
