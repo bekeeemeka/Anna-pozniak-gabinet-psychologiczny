@@ -193,6 +193,7 @@
       });
 
       document.documentElement.setAttribute("data-site-lang", lang);
+      document.documentElement.setAttribute("lang", lang);
     }
 
     let saved = "pl";
