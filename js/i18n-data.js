@@ -2054,116 +2054,146 @@ window.I18N_DATA = {
       "de": "Was kostet eine Beratung?"
     },
     "konsultacje_psychologiczne_rzeszow.0019": {
+      "en": "Do I need a referral for a psychological consultation?",
+      "uk": "Чи потрібне мені направлення на психологічну консультацію?",
+      "de": "Brauche ich eine Überweisung für eine psychologische Beratung?"
+    },
+    "konsultacje_psychologiczne_rzeszow.0020": {
+      "en": "Do you see patients through NFZ (public health insurance)?",
+      "uk": "Чи приймаєш ти пацієнтів у рамках НФЗ (державного страхування)?",
+      "de": "Behandelst du Patienten im Rahmen der NFZ (gesetzliche Krankenversicherung)?"
+    },
+    "konsultacje_psychologiczne_rzeszow.0021": {
+      "en": "What does a first visit to a psychologist look like?",
+      "uk": "Як виглядає перший візит до психолога?",
+      "de": "Wie läuft ein erster Termin bei einer Psychologin ab?"
+    },
+    "konsultacje_psychologiczne_rzeszow.0022": {
       "en": "A psychological consultation is the first, safe step toward understanding what's happening in your life. I work with adults — offering consultations both in person in Rzeszów and online, whichever format suits you better.",
       "uk": "Психологічна консультація – це перший безпечний крок до розуміння того, що відбувається у твоєму житті. Я працюю з дорослими – проводжу консультації очно у Жешуві та онлайн, у зручнішому для тебе форматі.",
       "de": "Eine psychologische Beratung ist der erste, sichere Schritt, um zu verstehen, was in deinem Leben geschieht. Ich arbeite mit Erwachsenen — ich biete Beratung sowohl persönlich in Rzeszów als auch online an, je nachdem, was für dich bequemer ist."
     },
-    "konsultacje_psychologiczne_rzeszow.0020": {
+    "konsultacje_psychologiczne_rzeszow.0023": {
       "en": "A psychological consultation is a conversation in which we look at your situation together — without judgment, without ready-made prescriptions, at a pace that suits you.",
       "uk": "Психологічна консультація – це розмова, під час якої ми разом розглядаємо твою ситуацію – без осуду, без готових рецептів, у зручному для тебе темпі.",
       "de": "Eine psychologische Beratung ist ein Gespräch, in dem wir gemeinsam deine Situation betrachten — ohne Bewertung, ohne fertige Rezepte, in deinem eigenen Tempo."
     },
-    "konsultacje_psychologiczne_rzeszow.0021": {
+    "konsultacje_psychologiczne_rzeszow.0024": {
       "en": "It can be a one-off meeting that helps you sort out your thoughts, or the beginning of longer collaboration if you feel you need regular support. You decide how this process continues.",
       "uk": "Це може бути одноразова зустріч, яка допоможе впорядкувати думки, або початок довшої співпраці, якщо відчуєш потребу в регулярній підтримці. Саме ти вирішуєш, яким буде подальший процес.",
       "de": "Es kann ein einmaliges Treffen sein, das dir hilft, deine Gedanken zu ordnen, oder der Beginn einer längeren Zusammenarbeit, wenn du das Gefühl hast, regelmäßige Unterstützung zu brauchen. Du entscheidest, wie dieser Prozess weitergeht."
     },
-    "konsultacje_psychologiczne_rzeszow.0022": {
+    "konsultacje_psychologiczne_rzeszow.0025": {
       "en": "Consultations are used by people in a life crisis, after difficult changes, but also by those who simply want to better understand themselves and their emotions. See <a class=\"link-tekstowy\" href=\"blog.html#artykul-6\">what a first visit looks like</a>.",
       "uk": "Консультаціями користуються люди в життєвій кризі, після складних змін, а також ті, хто просто хоче краще зрозуміти себе та свої емоції. Дізнайся, <a class=\"link-tekstowy\" href=\"blog.html#artykul-6\">як проходить перший візит</a>.",
       "de": "Beratung nutzen Menschen in einer Lebenskrise, nach schwierigen Veränderungen, aber auch solche, die sich und ihre Gefühle einfach besser verstehen möchten. Sieh dir an, <a class=\"link-tekstowy\" href=\"blog.html#artykul-6\">wie ein erster Termin abläuft</a>."
     },
-    "konsultacje_psychologiczne_rzeszow.0023": {
+    "konsultacje_psychologiczne_rzeszow.0026": {
       "en": "A standard session lasts about 60 minutes — long enough to calmly discuss the topic you bring.",
       "uk": "Стандартна зустріч триває близько 60 хвилин – достатньо довго, щоб спокійно обговорити тему, з якою ти прийшов/прийшла.",
       "de": "Ein Standardtermin dauert etwa 60 Minuten — lang genug, um das Thema, mit dem du kommst, in Ruhe zu besprechen."
     },
-    "konsultacje_psychologiczne_rzeszow.0024": {
+    "konsultacje_psychologiczne_rzeszow.0027": {
       "en": "No — both formats offer the same space for conversation. Choose the one that feels more comfortable for you. More on the <a class=\"link-tekstowy\" href=\"psycholog-online.html\">online psychologist</a> page.",
       "uk": "Ні – обидві форми дають однаковий простір для розмови. Обери ту, в якій почуваєшся вільніше. Детальніше на сторінці <a class=\"link-tekstowy\" href=\"psycholog-online.html\">психолог онлайн</a>.",
       "de": "Nein — beide Formen bieten den gleichen Gesprächsraum. Wähle die, bei der du dich wohler fühlst. Mehr dazu auf der Seite <a class=\"link-tekstowy\" href=\"psycholog-online.html\">Online-Psychologin</a>."
     },
-    "konsultacje_psychologiczne_rzeszow.0025": {
+    "konsultacje_psychologiczne_rzeszow.0028": {
       "en": "It's best to check current prices directly — write or call, and I'll gladly answer your questions.",
       "uk": "Актуальні ціни найкраще уточнити напряму – напиши або зателефонуй, я охоче відповім на запитання.",
       "de": "Die aktuellen Preise erfährst du am besten direkt — schreib oder ruf an, ich beantworte gerne deine Fragen."
     },
-    "konsultacje_psychologiczne_rzeszow.0026": {
+    "konsultacje_psychologiczne_rzeszow.0029": {
+      "en": "No — I run a private practice, so you can book directly, without a referral and without waiting in line.",
+      "uk": "Ні — я веду приватну практику, тож ти можеш записатися напряму, без направлення й без черги.",
+      "de": "Nein — ich führe eine private Praxis, du kannst also direkt einen Termin buchen, ohne Überweisung und ohne Wartezeit."
+    },
+    "konsultacje_psychologiczne_rzeszow.0030": {
+      "en": "No, I run an exclusively private practice — this means you can get an appointment quickly, in person in Rzeszów or online, without the wait times typical of public healthcare.",
+      "uk": "Ні, я веду виключно приватну практику — завдяки цьому ти швидко отримаєш термін, очно в Жешуві або онлайн, без черг, типових для державної системи охорони здоров'я.",
+      "de": "Nein, ich führe ausschließlich eine private Praxis — dadurch bekommst du schnell einen Termin, vor Ort in Rzeszów oder online, ohne die für die öffentliche Gesundheitsversorgung typischen Wartezeiten."
+    },
+    "konsultacje_psychologiczne_rzeszow.0031": {
+      "en": "It's mainly a conversation — you tell me what brought you here, and I listen and ask questions that help me better understand your situation. You don't need to prepare anything beforehand.",
+      "uk": "Це передусім розмова — ти розповідаєш, що тебе привело, а я слухаю і ставлю запитання, які допомагають краще зрозуміти твою ситуацію. Тобі не потрібно нічого готувати заздалегідь.",
+      "de": "Es ist vor allem ein Gespräch — du erzählst, was dich hergeführt hat, und ich höre zu und stelle Fragen, die mir helfen, deine Situation besser zu verstehen. Du musst dich vorher auf nichts vorbereiten."
+    },
+    "konsultacje_psychologiczne_rzeszow.0032": {
       "en": "Book a consultation",
       "uk": "Записатися на консультацію",
       "de": "Beratung buchen"
     },
-    "konsultacje_psychologiczne_rzeszow.0027": {
+    "konsultacje_psychologiczne_rzeszow.0033": {
       "en": "what a first visit looks like",
       "uk": "як проходить перший візит",
       "de": "wie ein erster Termin abläuft"
     },
-    "konsultacje_psychologiczne_rzeszow.0028": {
+    "konsultacje_psychologiczne_rzeszow.0034": {
       "en": "online psychologist",
       "uk": "психолог онлайн",
       "de": "Online-Psychologin"
     },
-    "konsultacje_psychologiczne_rzeszow.0029": {
+    "konsultacje_psychologiczne_rzeszow.0035": {
       "en": "Professional psychological support in Rzeszów and <a href=\"psycholog-online.html\">online</a>.",
       "uk": "Професійна психологічна підтримка у Жешуві та <a href=\"psycholog-online.html\">онлайн</a>.",
       "de": "Professionelle psychologische Unterstützung in Rzeszów und <a href=\"psycholog-online.html\">online</a>."
     },
-    "konsultacje_psychologiczne_rzeszow.0030": {
+    "konsultacje_psychologiczne_rzeszow.0036": {
       "en": "ul. Słowackiego 24/19, Rzeszów · <a href=\"tel:+48663504991\">+48 663 504 991</a>",
       "uk": "ul. Słowackiego 24/19, Жешув · <a href=\"tel:+48663504991\">+48 663 504 991</a>",
       "de": "ul. Słowackiego 24/19, Rzeszów · <a href=\"tel:+48663504991\">+48 663 504 991</a>"
     },
-    "konsultacje_psychologiczne_rzeszow.0031": {
+    "konsultacje_psychologiczne_rzeszow.0037": {
       "en": "© <span id=\"rok\"></span> Anna Poźniak. All rights reserved.",
       "uk": "© <span id=\"rok\"></span> Anna Poźniak. Усі права захищено.",
       "de": "© <span id=\"rok\"></span> Anna Poźniak. Alle Rechte vorbehalten."
     },
-    "konsultacje_psychologiczne_rzeszow.0032": {
+    "konsultacje_psychologiczne_rzeszow.0038": {
       "en": "Psychological Practice",
       "uk": "Психологічний кабінет",
       "de": "Psychologische Praxis"
     },
-    "konsultacje_psychologiczne_rzeszow.0033": {
+    "konsultacje_psychologiczne_rzeszow.0039": {
       "en": "Anna's Assistant",
       "uk": "Асистент Анни",
       "de": "Annas Assistent"
     },
-    "konsultacje_psychologiczne_rzeszow.0034": {
+    "konsultacje_psychologiczne_rzeszow.0040": {
       "en": "Virtual AI assistant",
       "uk": "Віртуальний AI-асистент",
       "de": "Virtueller KI-Assistent"
     },
-    "konsultacje_psychologiczne_rzeszow.0035": {
+    "konsultacje_psychologiczne_rzeszow.0041": {
       "en": "This is a conversation with an AI, not a therapist. In an emergency, call 112 or the Crisis Helpline 116 123.",
       "uk": "Це розмова зі штучним інтелектом, а не з терапевтом. В екстрених ситуаціях зателефонуйте на 112 або на кризову лінію довіри 116 123.",
       "de": "Dies ist ein Gespräch mit einer KI, nicht mit einer Therapeutin. In einem Notfall wählen Sie 112 oder die Krisen-Hotline 116 123."
     },
-    "konsultacje_psychologiczne_rzeszow.0036": {
+    "konsultacje_psychologiczne_rzeszow.0042": {
       "en": "Book a consultation",
       "uk": "Записатися на консультацію",
       "de": "Beratung buchen"
     },
-    "konsultacje_psychologiczne_rzeszow.0037": {
+    "konsultacje_psychologiczne_rzeszow.0043": {
       "en": "Open menu",
       "uk": "Відкрити меню",
       "de": "Menü öffnen"
     },
-    "konsultacje_psychologiczne_rzeszow.0038": {
+    "konsultacje_psychologiczne_rzeszow.0044": {
       "en": "Open chat with assistant",
       "uk": "Відкрити чат з асистентом",
       "de": "Chat mit Assistent öffnen"
     },
-    "konsultacje_psychologiczne_rzeszow.0039": {
+    "konsultacje_psychologiczne_rzeszow.0045": {
       "en": "Close chat",
       "uk": "Закрити чат",
       "de": "Chat schließen"
     },
-    "konsultacje_psychologiczne_rzeszow.0040": {
+    "konsultacje_psychologiczne_rzeszow.0046": {
       "en": "Send message",
       "uk": "Надіслати повідомлення",
       "de": "Nachricht senden"
     },
-    "konsultacje_psychologiczne_rzeszow.0041": {
+    "konsultacje_psychologiczne_rzeszow.0047": {
       "en": "Write a message...",
       "uk": "Напишіть повідомлення...",
       "de": "Nachricht schreiben..."
@@ -2463,111 +2493,141 @@ window.I18N_DATA = {
       "de": "Wie viele Sitzungen sind normalerweise nötig?"
     },
     "odbudowa_wartosci_rzeszow.0019": {
+      "en": "How can you raise your self-worth on your own, and when is it worth seeing a psychologist?",
+      "uk": "Як самостійно підвищити почуття власної гідності і коли варто звернутися до психолога?",
+      "de": "Wie kann man sein Selbstwertgefühl selbst stärken, und wann lohnt sich die Hilfe einer Psychologin?"
+    },
+    "odbudowa_wartosci_rzeszow.0020": {
+      "en": "Are low self-esteem and low self-worth the same thing?",
+      "uk": "Чи є низька самооцінка і низьке почуття власної гідності одним і тим самим?",
+      "de": "Sind geringes Selbstvertrauen und geringes Selbstwertgefühl dasselbe?"
+    },
+    "odbudowa_wartosci_rzeszow.0021": {
+      "en": "Does working on self-worth require regular visits?",
+      "uk": "Чи потребує робота над почуттям власної гідності регулярних візитів?",
+      "de": "Erfordert die Arbeit am Selbstwertgefühl regelmäßige Termine?"
+    },
+    "odbudowa_wartosci_rzeszow.0022": {
       "en": "Low self-worth can affect every area of life — relationships, work, decisions. I help rebuild self-trust, step by step.",
       "uk": "Низька самооцінка може впливати на кожну сферу життя – стосунки, роботу, рішення. Я допомагаю відновити довіру до себе, крок за кроком.",
       "de": "Ein geringes Selbstwertgefühl kann jeden Lebensbereich beeinflussen — Beziehungen, Arbeit, Entscheidungen. Ich helfe dabei, Schritt für Schritt wieder Selbstvertrauen aufzubauen."
     },
-    "odbudowa_wartosci_rzeszow.0020": {
+    "odbudowa_wartosci_rzeszow.0023": {
       "en": "Self-worth isn't built by pretending to be confident — it starts with small decisions that show your needs and boundaries matter.",
       "uk": "Почуття власної гідності не будується через вдавання впевненості – воно починається з невеликих рішень, які показують, що твої потреби та межі мають значення.",
       "de": "Selbstwertgefühl entsteht nicht durch vorgetäuschtes Selbstvertrauen — es beginnt mit kleinen Entscheidungen, die zeigen, dass deine Bedürfnisse und Grenzen zählen."
     },
-    "odbudowa_wartosci_rzeszow.0021": {
+    "odbudowa_wartosci_rzeszow.0024": {
       "en": "I support people who find it hard to set boundaries, say “no,” constantly adapt to others, or struggle with guilt and excessive responsibility. These patterns are often what lies behind low self-worth.",
       "uk": "Я підтримую людей, яким важко встановлювати межі, казати «ні», які постійно підлаштовуються під інших або борються з почуттям провини та надмірною відповідальністю. Часто саме ці патерни стоять за низькою самооцінкою.",
       "de": "Ich unterstütze Menschen, die Schwierigkeiten haben, Grenzen zu setzen, „nein“ zu sagen, sich ständig an andere anpassen oder mit Schuldgefühlen und übermäßiger Verantwortung kämpfen. Oft stecken genau diese Muster hinter einem geringen Selbstwertgefühl."
     },
-    "odbudowa_wartosci_rzeszow.0022": {
+    "odbudowa_wartosci_rzeszow.0025": {
       "en": "Read <a class=\"link-tekstowy\" href=\"blog.html#artykul-3\">why rebuilding yourself doesn't have to happen all at once</a>.",
       "uk": "Дізнайся, <a class=\"link-tekstowy\" href=\"blog.html#artykul-3\">чому відновлення себе не мусить статися одразу</a>.",
       "de": "Lies, <a class=\"link-tekstowy\" href=\"blog.html#artykul-3\">warum sich selbst wieder aufzubauen nicht sofort geschehen muss</a>."
     },
-    "odbudowa_wartosci_rzeszow.0023": {
+    "odbudowa_wartosci_rzeszow.0026": {
       "en": "It's a process, not a one-time decision — but noticeable change is possible through regular work on yourself and support along the way.",
       "uk": "Це процес, а не одноразове рішення – але помітна зміна можлива завдяки регулярній роботі над собою та підтримці в цьому процесі.",
       "de": "Es ist ein Prozess, keine einmalige Entscheidung — aber eine spürbare Veränderung ist durch regelmäßige Arbeit an dir selbst und Unterstützung dabei möglich."
     },
-    "odbudowa_wartosci_rzeszow.0024": {
+    "odbudowa_wartosci_rzeszow.0027": {
       "en": "It often shows up as difficulty making decisions, comparing yourself to others, and a feeling that “it's never good enough.” A consultation can help identify this.",
       "uk": "Часто це проявляється у труднощах з прийняттям рішень, порівнянні себе з іншими та відчутті, що «ніколи не буває достатньо добре». Консультація допоможе це розпізнати.",
       "de": "Es zeigt sich oft in Entscheidungsschwierigkeiten, dem Vergleich mit anderen und dem Gefühl, dass „es nie gut genug ist“. Eine Beratung kann helfen, das zu erkennen."
     },
-    "odbudowa_wartosci_rzeszow.0025": {
+    "odbudowa_wartosci_rzeszow.0028": {
       "en": "It's very individual — we decide together, depending on your situation and the pace at which you want to work.",
       "uk": "Це дуже індивідуально – ми визначаємо це разом, залежно від твоєї ситуації та темпу, в якому ти хочеш працювати.",
       "de": "Das ist sehr individuell — wir legen es gemeinsam fest, je nach deiner Situation und dem Tempo, in dem du arbeiten möchtest."
     },
-    "odbudowa_wartosci_rzeszow.0026": {
+    "odbudowa_wartosci_rzeszow.0029": {
+      "en": "Small steps — noticing your own needs, learning to say \"no\" — do help, but when patterns have repeated for years and are hard to change on your own, talking with a psychologist lets you see them from a different perspective and work on them consciously.",
+      "uk": "Маленькі кроки — помічати власні потреби, вчитися казати „ні” — допомагають, але коли шаблони повторюються роками і їх важко змінити самостійно, розмова з психологом дозволяє поглянути на них з іншого ракурсу і працювати над ними усвідомлено.",
+      "de": "Kleine Schritte — die eigenen Bedürfnisse wahrnehmen, „nein” sagen lernen — helfen, aber wenn sich Muster seit Jahren wiederholen und schwer allein zu ändern sind, hilft ein Gespräch mit einer Psychologin, sie aus einer anderen Perspektive zu sehen und bewusst daran zu arbeiten."
+    },
+    "odbudowa_wartosci_rzeszow.0030": {
+      "en": "Not quite — self-esteem is about how you judge your skills and achievements, while self-worth is the deeper belief that you deserve respect and good treatment, regardless of your successes.",
+      "uk": "Не зовсім — самооцінка стосується того, як ти оцінюєш свої вміння і досягнення, а почуття власної гідності — це глибше переконання, що ти заслуговуєш на повагу й гарне ставлення, незалежно від успіхів.",
+      "de": "Nicht ganz — Selbstvertrauen bezieht sich darauf, wie du deine Fähigkeiten und Erfolge bewertest, während Selbstwertgefühl die tiefere Überzeugung ist, dass du unabhängig von Erfolgen Respekt und gute Behandlung verdienst."
+    },
+    "odbudowa_wartosci_rzeszow.0031": {
+      "en": "Not necessarily — some people use single consultations during harder moments, others prefer regular meetings. We decide the frequency together, matching it to your needs.",
+      "uk": "Не обов'язково — дехто користується окремими консультаціями в складніші моменти, інші надають перевагу регулярним зустрічам. Частоту ми визначаємо разом, підлаштовуючи її під твої потреби.",
+      "de": "Nicht unbedingt — manche nutzen einzelne Beratungen in schwierigeren Momenten, andere bevorzugen regelmäßige Treffen. Die Häufigkeit legen wir gemeinsam fest, passend zu deinen Bedürfnissen."
+    },
+    "odbudowa_wartosci_rzeszow.0032": {
       "en": "Book a consultation",
       "uk": "Записатися на консультацію",
       "de": "Beratung buchen"
     },
-    "odbudowa_wartosci_rzeszow.0027": {
+    "odbudowa_wartosci_rzeszow.0033": {
       "en": "why rebuilding yourself doesn't have to happen all at once",
       "uk": "чому відновлення себе не мусить статися одразу",
       "de": "warum sich selbst wieder aufzubauen nicht sofort geschehen muss"
     },
-    "odbudowa_wartosci_rzeszow.0028": {
+    "odbudowa_wartosci_rzeszow.0034": {
       "en": "Professional psychological support in Rzeszów and <a href=\"psycholog-online.html\">online</a>.",
       "uk": "Професійна психологічна підтримка у Жешуві та <a href=\"psycholog-online.html\">онлайн</a>.",
       "de": "Professionelle psychologische Unterstützung in Rzeszów und <a href=\"psycholog-online.html\">online</a>."
     },
-    "odbudowa_wartosci_rzeszow.0029": {
+    "odbudowa_wartosci_rzeszow.0035": {
       "en": "ul. Słowackiego 24/19, Rzeszów · <a href=\"tel:+48663504991\">+48 663 504 991</a>",
       "uk": "ul. Słowackiego 24/19, Жешув · <a href=\"tel:+48663504991\">+48 663 504 991</a>",
       "de": "ul. Słowackiego 24/19, Rzeszów · <a href=\"tel:+48663504991\">+48 663 504 991</a>"
     },
-    "odbudowa_wartosci_rzeszow.0030": {
+    "odbudowa_wartosci_rzeszow.0036": {
       "en": "© <span id=\"rok\"></span> Anna Poźniak. All rights reserved.",
       "uk": "© <span id=\"rok\"></span> Anna Poźniak. Усі права захищено.",
       "de": "© <span id=\"rok\"></span> Anna Poźniak. Alle Rechte vorbehalten."
     },
-    "odbudowa_wartosci_rzeszow.0031": {
+    "odbudowa_wartosci_rzeszow.0037": {
       "en": "Psychological Practice",
       "uk": "Психологічний кабінет",
       "de": "Psychologische Praxis"
     },
-    "odbudowa_wartosci_rzeszow.0032": {
+    "odbudowa_wartosci_rzeszow.0038": {
       "en": "Anna's Assistant",
       "uk": "Асистент Анни",
       "de": "Annas Assistent"
     },
-    "odbudowa_wartosci_rzeszow.0033": {
+    "odbudowa_wartosci_rzeszow.0039": {
       "en": "Virtual AI assistant",
       "uk": "Віртуальний AI-асистент",
       "de": "Virtueller KI-Assistent"
     },
-    "odbudowa_wartosci_rzeszow.0034": {
+    "odbudowa_wartosci_rzeszow.0040": {
       "en": "This is a conversation with an AI, not a therapist. In an emergency, call 112 or the Crisis Helpline 116 123.",
       "uk": "Це розмова зі штучним інтелектом, а не з терапевтом. В екстрених ситуаціях зателефонуйте на 112 або на кризову лінію довіри 116 123.",
       "de": "Dies ist ein Gespräch mit einer KI, nicht mit einer Therapeutin. In einem Notfall wählen Sie 112 oder die Krisen-Hotline 116 123."
     },
-    "odbudowa_wartosci_rzeszow.0035": {
+    "odbudowa_wartosci_rzeszow.0041": {
       "en": "Book a consultation",
       "uk": "Записатися на консультацію",
       "de": "Beratung buchen"
     },
-    "odbudowa_wartosci_rzeszow.0036": {
+    "odbudowa_wartosci_rzeszow.0042": {
       "en": "Open menu",
       "uk": "Відкрити меню",
       "de": "Menü öffnen"
     },
-    "odbudowa_wartosci_rzeszow.0037": {
+    "odbudowa_wartosci_rzeszow.0043": {
       "en": "Open chat with assistant",
       "uk": "Відкрити чат з асистентом",
       "de": "Chat mit Assistent öffnen"
     },
-    "odbudowa_wartosci_rzeszow.0038": {
+    "odbudowa_wartosci_rzeszow.0044": {
       "en": "Close chat",
       "uk": "Закрити чат",
       "de": "Chat schließen"
     },
-    "odbudowa_wartosci_rzeszow.0039": {
+    "odbudowa_wartosci_rzeszow.0045": {
       "en": "Send message",
       "uk": "Надіслати повідомлення",
       "de": "Nachricht senden"
     },
-    "odbudowa_wartosci_rzeszow.0040": {
+    "odbudowa_wartosci_rzeszow.0046": {
       "en": "Write a message...",
       "uk": "Напишіть повідомлення...",
       "de": "Nachricht schreiben..."
@@ -2867,116 +2927,146 @@ window.I18N_DATA = {
       "de": "Ist Krisenhilfe dasselbe wie Psychotherapie?"
     },
     "wsparcie_w_kryzysie_rzeszow.0019": {
+      "en": "Where in Rzeszów can you get free psychological help in an acute crisis?",
+      "uk": "Де в Жешуві можна отримати безкоштовну психологічну допомогу під час гострої кризи?",
+      "de": "Wo in Rzeszów bekommt man kostenlose psychologische Hilfe in einer akuten Krise?"
+    },
+    "wsparcie_w_kryzysie_rzeszow.0020": {
+      "en": "What are the signs of a mental health crisis that mean it's worth seeking help?",
+      "uk": "Які ознаки психічної кризи свідчать про те, що варто звернутися по допомогу?",
+      "de": "Welche Anzeichen einer psychischen Krise sprechen dafür, sich Hilfe zu holen?"
+    },
+    "wsparcie_w_kryzysie_rzeszow.0021": {
+      "en": "Is crisis support also available online?",
+      "uk": "Чи доступна допомога під час кризи також онлайн?",
+      "de": "Ist Unterstützung in der Krise auch online verfügbar?"
+    },
+    "wsparcie_w_kryzysie_rzeszow.0022": {
       "en": "A life crisis can appear suddenly — after a loss, a change, an illness, or prolonged overload. I offer psychological support that helps you regain a sense of stability.",
       "uk": "Життєва криза може виникнути раптово – після втрати, зміни, хвороби чи тривалого перевантаження. Я пропоную психологічну підтримку, яка допомагає повернути відчуття стабільності.",
       "de": "Eine Lebenskrise kann plötzlich auftreten — nach einem Verlust, einer Veränderung, einer Krankheit oder langanhaltender Überlastung. Ich biete psychologische Unterstützung, die hilft, das Gefühl von Stabilität zurückzugewinnen."
     },
-    "wsparcie_w_kryzysie_rzeszow.0020": {
+    "wsparcie_w_kryzysie_rzeszow.0023": {
       "en": "A crisis is a moment when your usual ways of coping stop being enough. It can involve health, work, relationships, or a sudden life change.",
       "uk": "Криза – це момент, коли попередні способи справлятися перестають бути достатніми. Вона може стосуватися здоров'я, роботи, стосунків чи раптової життєвої зміни.",
       "de": "Eine Krise ist ein Moment, in dem die bisherigen Bewältigungsstrategien nicht mehr ausreichen. Sie kann Gesundheit, Arbeit, Beziehungen oder eine plötzliche Lebensveränderung betreffen."
     },
-    "wsparcie_w_kryzysie_rzeszow.0021": {
+    "wsparcie_w_kryzysie_rzeszow.0024": {
       "en": "I support people struggling with emotional crisis, professional burnout, bullying, chronic stress, and difficult, life-changing events. Together we look for a way to get through this time knowing you're not alone.",
       "uk": "Я підтримую людей, які переживають емоційну кризу, професійне вигорання, мобінг, хронічний стрес та складні, переломні життєві події. Разом ми шукаємо спосіб пройти через цей час, знаючи, що ти не сам/сама.",
       "de": "Ich unterstütze Menschen, die mit emotionaler Krise, beruflichem Burnout, Mobbing, chronischem Stress und schwierigen, einschneidenden Lebensereignissen kämpfen. Gemeinsam suchen wir einen Weg, diese Zeit zu durchstehen, im Wissen, dass du nicht allein bist."
     },
-    "wsparcie_w_kryzysie_rzeszow.0022": {
+    "wsparcie_w_kryzysie_rzeszow.0025": {
       "en": "You don't have to wait until the situation becomes unbearable. See <a class=\"link-tekstowy\" href=\"blog.html#artykul-8\">the signs worth taking seriously</a>.",
       "uk": "Тобі не потрібно чекати, поки ситуація стане нестерпною. Переглянь <a class=\"link-tekstowy\" href=\"blog.html#artykul-8\">сигнали, які варто сприймати серйозно</a>.",
       "de": "Du musst nicht warten, bis die Situation unerträglich wird. Sieh dir <a class=\"link-tekstowy\" href=\"blog.html#artykul-8\">die Anzeichen an, die man ernst nehmen sollte</a>."
     },
-    "wsparcie_w_kryzysie_rzeszow.0023": {
+    "wsparcie_w_kryzysie_rzeszow.0026": {
       "en": "An emotional crisis lasts longer and starts affecting everyday functioning — sleep, work, relationships. If you recognize this, it's worth talking about.",
       "uk": "Емоційна криза триває довше і починає впливати на повсякденне функціонування – сон, роботу, стосунки. Якщо ти впізнаєш це, варто поговорити.",
       "de": "Eine emotionale Krise hält länger an und beginnt, den Alltag zu beeinträchtigen — Schlaf, Arbeit, Beziehungen. Wenn du das erkennst, lohnt sich ein Gespräch."
     },
-    "wsparcie_w_kryzysie_rzeszow.0024": {
+    "wsparcie_w_kryzysie_rzeszow.0027": {
       "en": "I try to respond to messages as quickly as possible — write or call, and we'll arrange the nearest convenient time.",
       "uk": "Я намагаюся відповідати на повідомлення якомога швидше – напиши або зателефонуй, і ми домовимося про найближчий зручний час.",
       "de": "Ich versuche, so schnell wie möglich auf Nachrichten zu antworten — schreib oder ruf an, und wir vereinbaren den nächsten passenden Termin."
     },
-    "wsparcie_w_kryzysie_rzeszow.0025": {
+    "wsparcie_w_kryzysie_rzeszow.0028": {
       "en": "The consultations I offer as a psychologist are support and conversation — not psychotherapy. You can read more about the difference <a class=\"link-tekstowy\" href=\"blog.html#artykul-5\">on the blog</a>.",
       "uk": "Консультації, які я проводжу як психолог, – це підтримка та розмова, а не психотерапія. Більше про різницю читай <a class=\"link-tekstowy\" href=\"blog.html#artykul-5\">у блозі</a>.",
       "de": "Die Beratungen, die ich als Psychologin anbiete, sind Unterstützung und Gespräch — keine Psychotherapie. Mehr über den Unterschied liest du <a class=\"link-tekstowy\" href=\"blog.html#artykul-5\">im Blog</a>."
     },
-    "wsparcie_w_kryzysie_rzeszow.0026": {
+    "wsparcie_w_kryzysie_rzeszow.0029": {
+      "en": "In a life-threatening situation, call 112. Free, 24/7 support is also available through the Crisis Helpline 116 123 and the ITAKA Foundation (800 70 2222). My consultations are a private, paid form of support — a good option once the acute crisis has passed and you need space to keep talking, without waiting in line.",
+      "uk": "У ситуації загрози життю зателефонуй на 112. Цілодобову безкоштовну підтримку також надають Кризова лінія довіри 116 123 та Фонд ITAKA (800 70 2222). Мої консультації — це приватна платна форма підтримки, хороший варіант, коли гостра криза минула, а тобі потрібен простір для подальшої розмови, без черги.",
+      "de": "In einer lebensbedrohlichen Situation ruf die 112 an. Kostenlose, rund um die Uhr erreichbare Unterstützung bieten auch die Krisen-Hotline 116 123 und die Stiftung ITAKA (800 70 2222). Meine Beratungen sind eine private, kostenpflichtige Unterstützungsform — eine gute Option, wenn die akute Krise vorbei ist und du Raum für weitere Gespräche brauchst, ohne Wartezeit."
+    },
+    "wsparcie_w_kryzysie_rzeszow.0030": {
+      "en": "Pay attention to long-lasting sleep difficulties, loss of motivation, a feeling of being overwhelmed, withdrawing from relationships, or trouble with everyday functioning. If you recognize several of these signs in yourself, it's a good time to talk.",
+      "uk": "Звернути увагу варто на тривалі труднощі зі сном, втрату мотивації, відчуття перевантаженості, відсторонення від стосунків або труднощі у повсякденному функціонуванні. Якщо ти впізнаєш у себе кілька з цих ознак, це хороший момент, щоб поговорити.",
+      "de": "Achte auf anhaltende Schlafprobleme, Motivationsverlust, das Gefühl, überwältigt zu sein, Rückzug aus Beziehungen oder Schwierigkeiten im Alltag. Wenn du mehrere dieser Anzeichen bei dir erkennst, ist es ein guter Zeitpunkt für ein Gespräch."
+    },
+    "wsparcie_w_kryzysie_rzeszow.0031": {
+      "en": "Yes — if you can't or don't want to come to the office in Rzeszów, we can hold the session online, in the same format and with the same support.",
+      "uk": "Так — якщо ти не можеш або не хочеш приїхати до кабінету в Жешуві, ми можемо провести зустріч онлайн, у такому самому форматі й з такою самою підтримкою.",
+      "de": "Ja — wenn du nicht in die Praxis in Rzeszów kommen kannst oder möchtest, können wir die Sitzung online abhalten, im gleichen Format und mit derselben Unterstützung."
+    },
+    "wsparcie_w_kryzysie_rzeszow.0032": {
       "en": "Book a consultation",
       "uk": "Записатися на консультацію",
       "de": "Beratung buchen"
     },
-    "wsparcie_w_kryzysie_rzeszow.0027": {
+    "wsparcie_w_kryzysie_rzeszow.0033": {
       "en": "the signs worth taking seriously",
       "uk": "сигнали, які варто сприймати серйозно",
       "de": "die Anzeichen, die man ernst nehmen sollte"
     },
-    "wsparcie_w_kryzysie_rzeszow.0028": {
+    "wsparcie_w_kryzysie_rzeszow.0034": {
       "en": "on the blog",
       "uk": "у блозі",
       "de": "im Blog"
     },
-    "wsparcie_w_kryzysie_rzeszow.0029": {
+    "wsparcie_w_kryzysie_rzeszow.0035": {
       "en": "Professional psychological support in Rzeszów and <a href=\"psycholog-online.html\">online</a>.",
       "uk": "Професійна психологічна підтримка у Жешуві та <a href=\"psycholog-online.html\">онлайн</a>.",
       "de": "Professionelle psychologische Unterstützung in Rzeszów und <a href=\"psycholog-online.html\">online</a>."
     },
-    "wsparcie_w_kryzysie_rzeszow.0030": {
+    "wsparcie_w_kryzysie_rzeszow.0036": {
       "en": "ul. Słowackiego 24/19, Rzeszów · <a href=\"tel:+48663504991\">+48 663 504 991</a>",
       "uk": "ul. Słowackiego 24/19, Жешув · <a href=\"tel:+48663504991\">+48 663 504 991</a>",
       "de": "ul. Słowackiego 24/19, Rzeszów · <a href=\"tel:+48663504991\">+48 663 504 991</a>"
     },
-    "wsparcie_w_kryzysie_rzeszow.0031": {
+    "wsparcie_w_kryzysie_rzeszow.0037": {
       "en": "© <span id=\"rok\"></span> Anna Poźniak. All rights reserved.",
       "uk": "© <span id=\"rok\"></span> Anna Poźniak. Усі права захищено.",
       "de": "© <span id=\"rok\"></span> Anna Poźniak. Alle Rechte vorbehalten."
     },
-    "wsparcie_w_kryzysie_rzeszow.0032": {
+    "wsparcie_w_kryzysie_rzeszow.0038": {
       "en": "Psychological Practice",
       "uk": "Психологічний кабінет",
       "de": "Psychologische Praxis"
     },
-    "wsparcie_w_kryzysie_rzeszow.0033": {
+    "wsparcie_w_kryzysie_rzeszow.0039": {
       "en": "Anna's Assistant",
       "uk": "Асистент Анни",
       "de": "Annas Assistent"
     },
-    "wsparcie_w_kryzysie_rzeszow.0034": {
+    "wsparcie_w_kryzysie_rzeszow.0040": {
       "en": "Virtual AI assistant",
       "uk": "Віртуальний AI-асистент",
       "de": "Virtueller KI-Assistent"
     },
-    "wsparcie_w_kryzysie_rzeszow.0035": {
+    "wsparcie_w_kryzysie_rzeszow.0041": {
       "en": "This is a conversation with an AI, not a therapist. In an emergency, call 112 or the Crisis Helpline 116 123.",
       "uk": "Це розмова зі штучним інтелектом, а не з терапевтом. В екстрених ситуаціях зателефонуйте на 112 або на кризову лінію довіри 116 123.",
       "de": "Dies ist ein Gespräch mit einer KI, nicht mit einer Therapeutin. In einem Notfall wählen Sie 112 oder die Krisen-Hotline 116 123."
     },
-    "wsparcie_w_kryzysie_rzeszow.0036": {
+    "wsparcie_w_kryzysie_rzeszow.0042": {
       "en": "Book a consultation",
       "uk": "Записатися на консультацію",
       "de": "Beratung buchen"
     },
-    "wsparcie_w_kryzysie_rzeszow.0037": {
+    "wsparcie_w_kryzysie_rzeszow.0043": {
       "en": "Open menu",
       "uk": "Відкрити меню",
       "de": "Menü öffnen"
     },
-    "wsparcie_w_kryzysie_rzeszow.0038": {
+    "wsparcie_w_kryzysie_rzeszow.0044": {
       "en": "Open chat with assistant",
       "uk": "Відкрити чат з асистентом",
       "de": "Chat mit Assistent öffnen"
     },
-    "wsparcie_w_kryzysie_rzeszow.0039": {
+    "wsparcie_w_kryzysie_rzeszow.0045": {
       "en": "Close chat",
       "uk": "Закрити чат",
       "de": "Chat schließen"
     },
-    "wsparcie_w_kryzysie_rzeszow.0040": {
+    "wsparcie_w_kryzysie_rzeszow.0046": {
       "en": "Send message",
       "uk": "Надіслати повідомлення",
       "de": "Nachricht senden"
     },
-    "wsparcie_w_kryzysie_rzeszow.0041": {
+    "wsparcie_w_kryzysie_rzeszow.0047": {
       "en": "Write a message...",
       "uk": "Напишіть повідомлення...",
       "de": "Nachricht schreiben..."
