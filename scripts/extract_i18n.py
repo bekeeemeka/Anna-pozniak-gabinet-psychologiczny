@@ -15,6 +15,7 @@ PAGES = [
     "konsultacje-psychologiczne-rzeszow.html", "psycholog-online.html",
     "odbudowa-wartosci-rzeszow.html", "pomoc-po-rozstaniu-rzeszow.html",
     "wsparcie-w-kryzysie-rzeszow.html", "404.html",
+    "wybierz-termin.html", "platnosc-potwierdzona.html",
 ]
 
 # Keep this list byte-for-byte identical (order and selectors) to SELECTORS in js/i18n.js
@@ -27,7 +28,7 @@ SELECTORS = [
     "main p",
     "main blockquote",
     "main li > span:not(.numer)",
-    "main a.przycisk", "main a.link-tekstowy", "main a.link-strzalka",
+    "main a.przycisk", "main button.przycisk", "main a.link-tekstowy", "main a.link-strzalka",
     "main span.kwota", "main span.opis-ceny",
     "main .karta-ksiazki-tresc h3",
     "main figcaption",

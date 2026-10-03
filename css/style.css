@@ -735,3 +735,80 @@
     grid-template-columns: 1fr;
   }
 }
+
+.siatka-terminow {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 1rem;
+  margin: 2.75rem auto 0;
+  max-width: 1050px;
+}
+
+.dzien-terminu {
+  border: 1px solid var(--ramka);
+  padding: 1.25rem 1rem;
+  text-align: center;
+  background: linear-gradient(145deg, rgba(255, 255, 255, 0.025), rgba(255, 255, 255, 0));
+}
+
+.dzien-terminu h3 {
+  color: var(--jasne-zloto);
+  font-size: 1.15rem;
+  margin-bottom: 1rem;
+}
+
+.godziny-dnia {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+}
+
+.godzina-przycisk {
+  display: block;
+  width: 100%;
+  padding: 0.6rem;
+  border: 1px solid var(--ramka);
+  border-radius: 999px;
+  background: transparent;
+  color: var(--biel);
+  font: inherit;
+  font-size: 0.85rem;
+  cursor: pointer;
+  transition: 0.25s;
+}
+
+.godzina-przycisk:hover {
+  border-color: var(--zloto);
+}
+
+.godzina-przycisk.wybrana {
+  background: var(--zloto);
+  color: #111;
+  border-color: var(--zloto);
+  font-weight: 600;
+}
+
+#przycisk-dalej {
+  border: none;
+  cursor: pointer;
+}
+
+#przycisk-dalej[disabled] {
+  opacity: 0.4;
+  cursor: not-allowed;
+  background: transparent;
+  color: var(--biel);
+  box-shadow: none;
+}
+
+@media (max-width: 850px) {
+  .siatka-terminow {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 560px) {
+  .siatka-terminow {
+    grid-template-columns: 1fr;
+  }
+}

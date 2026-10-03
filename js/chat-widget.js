@@ -1,5 +1,5 @@
 (() => {
-  const BOOKING_URL = "https://buy.stripe.com/9B63cw9ch995bhR0ghak001";
+  const BOOKING_URL = "wybierz-termin.html";
 
   const powitanie =
     "Cześć! Jestem asystentem AI tej strony - nie jestem terapeutą, ale chętnie Cię wysłucham. Co Cię do mnie sprowadza?";
@@ -21,7 +21,7 @@
   let otwartyRaz = false;
 
   function otworzUmawianie() {
-    window.open(BOOKING_URL, "_blank", "noopener");
+    window.location.href = BOOKING_URL;
   }
 
   function dodajWiadomosc(tresc, rola) {

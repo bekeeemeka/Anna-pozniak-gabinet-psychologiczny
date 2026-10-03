@@ -3078,5 +3078,234 @@ window.I18N_DATA = {
       "uk": "Відкрити меню",
       "de": "Menü öffnen"
     }
+  },
+  "wybierz_termin": {
+    "wybierz_termin.0001": {
+      "en": "Psychological Practice",
+      "uk": "Психологічний кабінет",
+      "de": "Psychologische Praxis"
+    },
+    "wybierz_termin.0002": {
+      "en": "Home",
+      "uk": "Головна",
+      "de": "Startseite"
+    },
+    "wybierz_termin.0003": {
+      "en": "About me",
+      "uk": "Про мене",
+      "de": "Über mich"
+    },
+    "wybierz_termin.0004": {
+      "en": "Who is this for?",
+      "uk": "Для кого?",
+      "de": "Für wen?"
+    },
+    "wybierz_termin.0005": {
+      "en": "Services",
+      "uk": "Послуги",
+      "de": "Angebot"
+    },
+    "wybierz_termin.0006": {
+      "en": "Blog",
+      "uk": "Блог",
+      "de": "Blog"
+    },
+    "wybierz_termin.0007": {
+      "en": "Books",
+      "uk": "Книги",
+      "de": "Bücher"
+    },
+    "wybierz_termin.0008": {
+      "en": "Contact",
+      "uk": "Контакти",
+      "de": "Kontakt"
+    },
+    "wybierz_termin.0009": {
+      "en": "Book a consultation",
+      "uk": "Записатися на консультацію",
+      "de": "Beratung buchen"
+    },
+    "wybierz_termin.0010": {
+      "en": "Step 1 of 2",
+      "uk": "Крок 1 з 2",
+      "de": "Schritt 1 von 2"
+    },
+    "wybierz_termin.0011": {
+      "en": "Choose a convenient day and time.",
+      "uk": "Обери зручний день і годину.",
+      "de": "Wähle einen passenden Tag und eine Uhrzeit."
+    },
+    "wybierz_termin.0012": {
+      "en": "Monday",
+      "uk": "Понеділок",
+      "de": "Montag"
+    },
+    "wybierz_termin.0013": {
+      "en": "Tuesday",
+      "uk": "Вівторок",
+      "de": "Dienstag"
+    },
+    "wybierz_termin.0014": {
+      "en": "Wednesday",
+      "uk": "Середа",
+      "de": "Mittwoch"
+    },
+    "wybierz_termin.0015": {
+      "en": "Thursday",
+      "uk": "Четвер",
+      "de": "Donnerstag"
+    },
+    "wybierz_termin.0016": {
+      "en": "Friday",
+      "uk": "П'ятниця",
+      "de": "Freitag"
+    },
+    "wybierz_termin.0017": {
+      "en": "Online consultations take place Monday to Friday, between 14:00–19:00. Pick an approximate day and time that work for you, then proceed to payment. You'll book the exact slot in the Google Calendar right after paying for the session.",
+      "uk": "Онлайн-консультації проходять з понеділка по п'ятницю, з 14:00 до 19:00. Обери орієнтовний день і годину, які тобі підходять, а потім перейди до оплати. Точний термін забронюєш у календарі Google одразу після оплати сесії.",
+      "de": "Online-Beratungen finden Montag bis Freitag zwischen 14:00–19:00 Uhr statt. Wähle einen ungefähren Tag und eine Uhrzeit, die dir passen, und gehe dann zur Zahlung über. Den genauen Termin buchst du im Google-Kalender direkt nach der Zahlung der Sitzung."
+    },
+    "wybierz_termin.0018": {
+      "en": "Proceed to payment",
+      "uk": "Перейти до оплати",
+      "de": "Weiter zur Zahlung"
+    },
+    "wybierz_termin.0019": {
+      "en": "Professional psychological support in Rzeszów and <a href=\"psycholog-online.html\">online</a>.",
+      "uk": "Професійна психологічна підтримка у Жешуві та <a href=\"psycholog-online.html\">онлайн</a>.",
+      "de": "Professionelle psychologische Unterstützung in Rzeszów und <a href=\"psycholog-online.html\">online</a>."
+    },
+    "wybierz_termin.0020": {
+      "en": "ul. Słowackiego 24/19, Rzeszów · <a href=\"tel:+48663504991\">+48 663 504 991</a>",
+      "uk": "ul. Słowackiego 24/19, Жешув · <a href=\"tel:+48663504991\">+48 663 504 991</a>",
+      "de": "ul. Słowackiego 24/19, Rzeszów · <a href=\"tel:+48663504991\">+48 663 504 991</a>"
+    },
+    "wybierz_termin.0021": {
+      "en": "© <span id=\"rok\"></span> Anna Poźniak. All rights reserved.",
+      "uk": "© <span id=\"rok\"></span> Anna Poźniak. Усі права захищено.",
+      "de": "© <span id=\"rok\"></span> Anna Poźniak. Alle Rechte vorbehalten."
+    },
+    "wybierz_termin.0022": {
+      "en": "Psychological Practice",
+      "uk": "Психологічний кабінет",
+      "de": "Psychologische Praxis"
+    },
+    "wybierz_termin.0023": {
+      "en": "Open menu",
+      "uk": "Відкрити меню",
+      "de": "Menü öffnen"
+    }
+  },
+  "platnosc_potwierdzona": {
+    "platnosc_potwierdzona.0001": {
+      "en": "Psychological Practice",
+      "uk": "Психологічний кабінет",
+      "de": "Psychologische Praxis"
+    },
+    "platnosc_potwierdzona.0002": {
+      "en": "Home",
+      "uk": "Головна",
+      "de": "Startseite"
+    },
+    "platnosc_potwierdzona.0003": {
+      "en": "About me",
+      "uk": "Про мене",
+      "de": "Über mich"
+    },
+    "platnosc_potwierdzona.0004": {
+      "en": "Who is this for?",
+      "uk": "Для кого?",
+      "de": "Für wen?"
+    },
+    "platnosc_potwierdzona.0005": {
+      "en": "Services",
+      "uk": "Послуги",
+      "de": "Angebot"
+    },
+    "platnosc_potwierdzona.0006": {
+      "en": "Blog",
+      "uk": "Блог",
+      "de": "Blog"
+    },
+    "platnosc_potwierdzona.0007": {
+      "en": "Books",
+      "uk": "Книги",
+      "de": "Bücher"
+    },
+    "platnosc_potwierdzona.0008": {
+      "en": "Contact",
+      "uk": "Контакти",
+      "de": "Kontakt"
+    },
+    "platnosc_potwierdzona.0009": {
+      "en": "Contact",
+      "uk": "Контакти",
+      "de": "Kontakt"
+    },
+    "platnosc_potwierdzona.0010": {
+      "en": "Payment received",
+      "uk": "Оплату отримано",
+      "de": "Zahlung erhalten"
+    },
+    "platnosc_potwierdzona.0011": {
+      "en": "Step 2 of 2",
+      "uk": "Крок 2 з 2",
+      "de": "Schritt 2 von 2"
+    },
+    "platnosc_potwierdzona.0012": {
+      "en": "Thank you for paying for your online consultation.",
+      "uk": "Дякуємо за оплату онлайн-консультації.",
+      "de": "Vielen Dank für die Bezahlung deiner Online-Beratung."
+    },
+    "platnosc_potwierdzona.0013": {
+      "en": "Choose your appointment time.",
+      "uk": "Обери час зустрічі.",
+      "de": "Wähle deinen Termin."
+    },
+    "platnosc_potwierdzona.0014": {
+      "en": "The session lasts 60 minutes. Just one thing left: choose a convenient appointment time in the calendar below. After booking, you'll receive a confirmation email with the Google Meet link.",
+      "uk": "Сесія триває 60 хвилин. Залишилось лише одне: обери зручний час зустрічі в календарі нижче. Після бронювання ти отримаєш електронного листа з підтвердженням і посиланням на Google Meet.",
+      "de": "Die Sitzung dauert 60 Minuten. Nur noch eins fehlt: Wähle unten im Kalender einen passenden Termin. Nach der Buchung erhältst du eine Bestätigungs-E-Mail mit dem Google-Meet-Link."
+    },
+    "platnosc_potwierdzona.0015": {
+      "en": "Questions about your payment or booking? Write to: <a class=\"link-tekstowy\" href=\"mailto:kontakt@annapozniak.com\">kontakt@annapozniak.com</a>",
+      "uk": "Є питання щодо оплати чи бронювання? Напиши: <a class=\"link-tekstowy\" href=\"mailto:kontakt@annapozniak.com\">kontakt@annapozniak.com</a>",
+      "de": "Fragen zur Zahlung oder Buchung? Schreib an: <a class=\"link-tekstowy\" href=\"mailto:kontakt@annapozniak.com\">kontakt@annapozniak.com</a>"
+    },
+    "platnosc_potwierdzona.0016": {
+      "en": "Choose a time in the calendar",
+      "uk": "Обрати час у календарі",
+      "de": "Termin im Kalender wählen"
+    },
+    "platnosc_potwierdzona.0017": {
+      "en": "kontakt@annapozniak.com",
+      "uk": "kontakt@annapozniak.com",
+      "de": "kontakt@annapozniak.com"
+    },
+    "platnosc_potwierdzona.0018": {
+      "en": "Professional psychological support in Rzeszów and <a href=\"psycholog-online.html\">online</a>.",
+      "uk": "Професійна психологічна підтримка у Жешуві та <a href=\"psycholog-online.html\">онлайн</a>.",
+      "de": "Professionelle psychologische Unterstützung in Rzeszów und <a href=\"psycholog-online.html\">online</a>."
+    },
+    "platnosc_potwierdzona.0019": {
+      "en": "ul. Słowackiego 24/19, Rzeszów · <a href=\"tel:+48663504991\">+48 663 504 991</a>",
+      "uk": "ul. Słowackiego 24/19, Жешув · <a href=\"tel:+48663504991\">+48 663 504 991</a>",
+      "de": "ul. Słowackiego 24/19, Rzeszów · <a href=\"tel:+48663504991\">+48 663 504 991</a>"
+    },
+    "platnosc_potwierdzona.0020": {
+      "en": "© <span id=\"rok\"></span> Anna Poźniak. All rights reserved.",
+      "uk": "© <span id=\"rok\"></span> Anna Poźniak. Усі права захищено.",
+      "de": "© <span id=\"rok\"></span> Anna Poźniak. Alle Rechte vorbehalten."
+    },
+    "platnosc_potwierdzona.0021": {
+      "en": "Psychological Practice",
+      "uk": "Психологічний кабінет",
+      "de": "Psychologische Praxis"
+    },
+    "platnosc_potwierdzona.0022": {
+      "en": "Open menu",
+      "uk": "Відкрити меню",
+      "de": "Menü öffnen"
+    }
   }
 };

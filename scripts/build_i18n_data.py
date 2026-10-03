@@ -28,6 +28,8 @@ PAGE_SLUG = {
     "pomoc-po-rozstaniu-rzeszow.html": "pomoc_po_rozstaniu_rzeszow",
     "wsparcie-w-kryzysie-rzeszow.html": "wsparcie_w_kryzysie_rzeszow",
     "404.html": "p404",
+    "wybierz-termin.html": "wybierz_termin",
+    "platnosc-potwierdzona.html": "platnosc_potwierdzona",
 }
 
 

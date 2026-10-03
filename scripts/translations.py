@@ -422,7 +422,7 @@ add(
   "Консультаціями користуються люди в життєвій кризі, після складних змін, а також ті, хто просто хоче краще зрозуміти себе та свої емоції. Дізнайся, <a class=\"link-tekstowy\" href=\"blog.html#artykul-6\">як проходить перший візит</a>.",
   "Beratung nutzen Menschen in einer Lebenskrise, nach schwierigen Veränderungen, aber auch solche, die sich und ihre Gefühle einfach besser verstehen möchten. Sieh dir an, <a class=\"link-tekstowy\" href=\"blog.html#artykul-6\">wie ein erster Termin abläuft</a>.",
 )
-add("Standardowe spotkanie trwa około 50 minut — wystarczająco długo, aby spokojnie omówić temat, z którym przychodzisz.", "A standard session lasts about 50 minutes — long enough to calmly discuss the topic you bring.", "Стандартна зустріч триває близько 50 хвилин – достатньо довго, щоб спокійно обговорити тему, з якою ти прийшов/прийшла.", "Ein Standardtermin dauert etwa 50 Minuten — lang genug, um das Thema, mit dem du kommst, in Ruhe zu besprechen.")
+add("Standardowe spotkanie trwa około 60 minut — wystarczająco długo, aby spokojnie omówić temat, z którym przychodzisz.", "A standard session lasts about 60 minutes — long enough to calmly discuss the topic you bring.", "Стандартна зустріч триває близько 60 хвилин – достатньо довго, щоб спокійно обговорити тему, з якою ти прийшов/прийшла.", "Ein Standardtermin dauert etwa 60 Minuten — lang genug, um das Thema, mit dem du kommst, in Ruhe zu besprechen.")
 add(
   "Nie — obie formy dają taką samą przestrzeń do rozmowy. Wybierz tę, w której czujesz się swobodniej. Więcej na stronie <a class=\"link-tekstowy\" href=\"psycholog-online.html\">psycholog online</a>.",
   "No — both formats offer the same space for conversation. Choose the one that feels more comfortable for you. More on the <a class=\"link-tekstowy\" href=\"psycholog-online.html\">online psychologist</a> page.",
@@ -526,4 +526,40 @@ add("sygnały, które warto potraktować poważnie", "the signs worth taking ser
 # --- 404.html ---
 add("Błąd 404", "Error 404", "Помилка 404", "Fehler 404")
 add("Tej strony nie udało się odnaleźć.", "This page couldn't be found.", "Цю сторінку не вдалося знайти.", "Diese Seite konnte nicht gefunden werden.")
+
+# --- wybierz-termin.html ---
+add("Krok 1 z 2", "Step 1 of 2", "Крок 1 з 2", "Schritt 1 von 2")
+add("Wybierz dogodny dzień i godzinę.", "Choose a convenient day and time.", "Обери зручний день і годину.", "Wähle einen passenden Tag und eine Uhrzeit.")
+add("Poniedziałek", "Monday", "Понеділок", "Montag")
+add("Wtorek", "Tuesday", "Вівторок", "Dienstag")
+add("Środa", "Wednesday", "Середа", "Mittwoch")
+add("Czwartek", "Thursday", "Четвер", "Donnerstag")
+add("Piątek", "Friday", "П'ятниця", "Freitag")
+add(
+  "Konsultacje online odbywają się od poniedziałku do piątku, w godzinach 14:00–19:00. Wybierz orientacyjny dzień i godzinę, które Ci odpowiadają, a następnie przejdź do płatności. Dokładny termin zarezerwujesz w kalendarzu Google zaraz po opłaceniu sesji.",
+  "Online consultations take place Monday to Friday, between 14:00–19:00. Pick an approximate day and time that work for you, then proceed to payment. You'll book the exact slot in the Google Calendar right after paying for the session.",
+  "Онлайн-консультації проходять з понеділка по п'ятницю, з 14:00 до 19:00. Обери орієнтовний день і годину, які тобі підходять, а потім перейди до оплати. Точний термін забронюєш у календарі Google одразу після оплати сесії.",
+  "Online-Beratungen finden Montag bis Freitag zwischen 14:00–19:00 Uhr statt. Wähle einen ungefähren Tag und eine Uhrzeit, die dir passen, und gehe dann zur Zahlung über. Den genauen Termin buchst du im Google-Kalender direkt nach der Zahlung der Sitzung.",
+)
+add("Przejdź do płatności", "Proceed to payment", "Перейти до оплати", "Weiter zur Zahlung")
+
+# --- platnosc-potwierdzona.html ---
+add("Płatność przyjęta", "Payment received", "Оплату отримано", "Zahlung erhalten")
+add("Krok 2 z 2", "Step 2 of 2", "Крок 2 з 2", "Schritt 2 von 2")
+add("Dziękujemy za opłacenie konsultacji online.", "Thank you for paying for your online consultation.", "Дякуємо за оплату онлайн-консультації.", "Vielen Dank für die Bezahlung deiner Online-Beratung.")
+add("Wybierz termin spotkania.", "Choose your appointment time.", "Обери час зустрічі.", "Wähle deinen Termin.")
+add(
+  "Sesja trwa 60 minut. Zostało już tylko jedno: wybierz dogodny dla Ciebie termin spotkania w kalendarzu poniżej. Po rezerwacji otrzymasz e-mailem potwierdzenie wraz z linkiem do spotkania na Google Meet.",
+  "The session lasts 60 minutes. Just one thing left: choose a convenient appointment time in the calendar below. After booking, you'll receive a confirmation email with the Google Meet link.",
+  "Сесія триває 60 хвилин. Залишилось лише одне: обери зручний час зустрічі в календарі нижче. Після бронювання ти отримаєш електронного листа з підтвердженням і посиланням на Google Meet.",
+  "Die Sitzung dauert 60 Minuten. Nur noch eins fehlt: Wähle unten im Kalender einen passenden Termin. Nach der Buchung erhältst du eine Bestätigungs-E-Mail mit dem Google-Meet-Link.",
+)
+add(
+  "Masz pytania dotyczące płatności lub rezerwacji? Napisz: <a class=\"link-tekstowy\" href=\"mailto:kontakt@annapozniak.com\">kontakt@annapozniak.com</a>",
+  "Questions about your payment or booking? Write to: <a class=\"link-tekstowy\" href=\"mailto:kontakt@annapozniak.com\">kontakt@annapozniak.com</a>",
+  "Є питання щодо оплати чи бронювання? Напиши: <a class=\"link-tekstowy\" href=\"mailto:kontakt@annapozniak.com\">kontakt@annapozniak.com</a>",
+  "Fragen zur Zahlung oder Buchung? Schreib an: <a class=\"link-tekstowy\" href=\"mailto:kontakt@annapozniak.com\">kontakt@annapozniak.com</a>",
+)
+add("Wybierz termin w kalendarzu", "Choose a time in the calendar", "Обрати час у календарі", "Termin im Kalender wählen")
+add("kontakt@annapozniak.com", "kontakt@annapozniak.com", "kontakt@annapozniak.com", "kontakt@annapozniak.com")
 add("Podobnie jak w życiu, czasem droga prowadzi w inne miejsce, niż się spodziewaliśmy. Wróć do strony głównej albo napisz do mnie bezpośrednio.", "Just like in life, sometimes the path leads somewhere other than we expected. Go back to the homepage or write to me directly.", "Як і в житті, іноді шлях веде в інше місце, ніж ми очікували. Повернись на головну сторінку або напиши мені напряму.", "Wie im Leben führt der Weg manchmal woandershin, als wir erwartet haben. Kehre zur Startseite zurück oder schreib mir direkt.")

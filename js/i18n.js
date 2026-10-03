@@ -21,6 +21,8 @@
     "pomoc-po-rozstaniu-rzeszow.html": "pomoc_po_rozstaniu_rzeszow",
     "wsparcie-w-kryzysie-rzeszow.html": "wsparcie_w_kryzysie_rzeszow",
     "404.html": "p404",
+    "wybierz-termin.html": "wybierz_termin",
+    "platnosc-potwierdzona.html": "platnosc_potwierdzona",
   };
 
   // Keep in sync with scripts/extract_i18n.py SELECTORS (same order).
@@ -33,7 +35,7 @@
     "main p",
     "main blockquote",
     "main li > span:not(.numer)",
-    "main a.przycisk", "main a.link-tekstowy", "main a.link-strzalka",
+    "main a.przycisk", "main button.przycisk", "main a.link-tekstowy", "main a.link-strzalka",
     "main span.kwota", "main span.opis-ceny",
     "main .karta-ksiazki-tresc h3",
     "main figcaption",
