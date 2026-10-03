@@ -1,5 +1,5 @@
 (() => {
-  const BOOKING_URL = "https://calendar.app.google/E1gHr8HGQ7oLmLij9";
+  const BOOKING_URL = "https://buy.stripe.com/9B63cw9ch995bhR0ghak001";
 
   const powitanie =
     "Cześć! Jestem asystentem AI tej strony - nie jestem terapeutą, ale chętnie Cię wysłucham. Co Cię do mnie sprowadza?";

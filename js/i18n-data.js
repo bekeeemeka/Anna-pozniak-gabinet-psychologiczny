@@ -2074,9 +2074,9 @@ window.I18N_DATA = {
       "de": "Beratung nutzen Menschen in einer Lebenskrise, nach schwierigen Veränderungen, aber auch solche, die sich und ihre Gefühle einfach besser verstehen möchten. Sieh dir an, <a class=\"link-tekstowy\" href=\"blog.html#artykul-6\">wie ein erster Termin abläuft</a>."
     },
     "konsultacje_psychologiczne_rzeszow.0023": {
-      "en": "A standard session lasts about 50 minutes — long enough to calmly discuss the topic you bring.",
-      "uk": "Стандартна зустріч триває близько 50 хвилин – достатньо довго, щоб спокійно обговорити тему, з якою ти прийшов/прийшла.",
-      "de": "Ein Standardtermin dauert etwa 50 Minuten — lang genug, um das Thema, mit dem du kommst, in Ruhe zu besprechen."
+      "en": "A standard session lasts about 60 minutes — long enough to calmly discuss the topic you bring.",
+      "uk": "Стандартна зустріч триває близько 60 хвилин – достатньо довго, щоб спокійно обговорити тему, з якою ти прийшов/прийшла.",
+      "de": "Ein Standardtermin dauert etwa 60 Minuten — lang genug, um das Thema, mit dem du kommst, in Ruhe zu besprechen."
     },
     "konsultacje_psychologiczne_rzeszow.0024": {
       "en": "No — both formats offer the same space for conversation. Choose the one that feels more comfortable for you. More on the <a class=\"link-tekstowy\" href=\"psycholog-online.html\">online psychologist</a> page.",
